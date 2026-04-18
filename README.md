@@ -24,3 +24,6 @@ java init
 ## tip
 
 You can easily revise all these rules and the size of grid.
+
+## example
+![](demo.png)
